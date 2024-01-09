@@ -26,3 +26,11 @@
 - Axios
 
 ## Estrutura de Arquivos
+
+projeto-backend/
+├── app.js
+├── public/
+│ ├── index.html
+│ └── styles.css
+├── README.md
+└── (outros arquivos e pastas)
