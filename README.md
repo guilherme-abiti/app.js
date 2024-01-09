@@ -34,3 +34,23 @@ projeto-backend/
 │ └── styles.css
 ├── README.md
 └── (outros arquivos e pastas)
+
+
+## Contribuição
+
+- Faça um fork do repositório.
+- Crie uma branch com uma nova funcionalidade (`git checkout -b feature/nova-funcionalidade`).
+- Faça commit das mudanças (`git commit -am 'Adiciona uma nova funcionalidade'`).
+- Faça push da branch (`git push origin feature/nova-funcionalidade`).
+- Crie um pull request explicando suas mudanças.
+
+## Autor
+
+- guilherme Abiti(https://github.com/guilherme-abiti)
+
+## Licença
+
+- Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+
+
